@@ -2,4 +2,4 @@
 *.bak
 
 #ignore target dir
-target/**/*
+./target/**/*
