@@ -3,3 +3,6 @@
 
 #ignore target dir
 ./target/**/*
+
+#
+haha/*
